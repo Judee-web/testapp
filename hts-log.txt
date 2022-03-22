@@ -1,0 +1,12 @@
+HTTrack3.49-2 launched on Mon, 21 Mar 2022 17:12:10 at https://miraclepatricks.com/20k-to-7figures/
+(httrack https://miraclepatricks.com/20k-to-7figures/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:12:16	Error: 	"Not Found" (404) at link https://miraclepatricks.com/20k-to-7figures/Trident/ (from https://miraclepatricks.com/20k-to-7figures/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 seconds : 3 links scanned, 1 files written (103538 bytes overall) [26023 bytes received at 4337 bytes/sec], 132138 bytes transferred using HTTP compression in 3 files, ratio 18%, 1.5 requests per connection
+(1 errors, 0 warnings, 0 messages)
